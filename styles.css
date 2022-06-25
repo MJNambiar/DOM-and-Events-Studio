@@ -25,6 +25,12 @@
     display: inline-block;
 }
 
+#rocket {
+    position: relative;
+    left:0px;
+    right: 0px;
+}
+
 .centered {
     text-align: center;
 }
